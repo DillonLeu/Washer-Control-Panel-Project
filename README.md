@@ -4,6 +4,9 @@ In this project, I will be programming the Nucleo-64 STM32L476 Microcontroller u
 
 ![image](https://user-images.githubusercontent.com/121032332/208891648-20073574-26a8-4a57-92a6-4338720a5b55.png)
 
+# Learning Outcome
+Created simulation of a washing machine control panel by making use of electrical components such as potentiometers, temperature sensors, light dependent resistors, force-sensitive resistors, buttons, 7 - segment display, single-colored LEDs, and multi-colored LEDs.
+
 
 Circuit layout :
 
